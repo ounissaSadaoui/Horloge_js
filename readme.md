@@ -1,4 +1,5 @@
 # Créattion d'un horloge en HTML/CSS et JS
+*lien de deploiement : https://ounissasadaoui.github.io/horloge_js/
 ## Le HTML
 
 on crée trois div différentes, pour chaque aiguille de l'horloe, à l'intérieur d'une div cadran elle meme dan une div horloge,
